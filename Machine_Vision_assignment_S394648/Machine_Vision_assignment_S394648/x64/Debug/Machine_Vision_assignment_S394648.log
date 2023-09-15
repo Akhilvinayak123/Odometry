@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\Akhil\OneDrive - Cranfield University\openCVtest\Machine_Vision_assignment_S394648\Machine_Vision_assignment_S394648\Source.cpp(48,29): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Akhil\OneDrive - Cranfield University\openCVtest\Machine_Vision_assignment_S394648\Machine_Vision_assignment_S394648\Source.cpp(48,26): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Akhil\OneDrive - Cranfield University\openCVtest\Machine_Vision_assignment_S394648\Machine_Vision_assignment_S394648\Source.cpp(71,29): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Akhil\OneDrive - Cranfield University\openCVtest\Machine_Vision_assignment_S394648\Machine_Vision_assignment_S394648\Source.cpp(71,26): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Machine_Vision_assignment_S394648.vcxproj -> C:\Users\Akhil\OneDrive - Cranfield University\openCVtest\Machine_Vision_assignment_S394648\x64\Debug\Machine_Vision_assignment_S394648.exe
